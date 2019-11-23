@@ -1,0 +1,100 @@
+                * {
+                    margin: 0;
+                    padding: 0;
+                }
+                
+                header {
+                    padding-top: 30px;
+                    padding-bottom: 30px;
+                    position: relative;
+                    width: 100%;
+                    
+              }
+              .areaTexto p{
+                float: right;
+                max-width:50px;
+                margin-right:182px;
+                
+
+              }
+              
+                #merlins{
+                    
+                 
+                 padding-left: 80px;
+
+                    }
+                
+                    #bag {
+                  
+                    position: relative;
+                    padding-left: 750px;
+                    padding-bottom: 00px;
+                    width: 40px;
+                  
+   
+                }
+                menu {
+                    border: 4px;
+                    padding-top: 30%;
+                    
+                
+                }
+
+                h1{
+                    padding-left: 85px;
+                     padding-top: 40px;
+                    padding-bottom: 40px;
+                    font-size: 1rem;
+                }
+                .menu ul li {
+                  display: inline-block;
+                  
+                 
+                 
+                }
+                .menu ul {
+                    position: relative;
+                    
+                    background-color:#715883;
+                  
+                  padding-top: 25px;
+                  padding-bottom: 25px;
+                  padding-left: 95px;
+                    
+                }
+                a  {
+                    text-decoration: none;
+                    color: white;
+                }
+                .itemProduto{
+width: 100%;
+                }
+                .itemProduto img {
+                    width: 160px;
+                   
+                   
+                }
+               
+                
+                .itemProduto { 
+                    display:grid;
+                    grid-template-columns: 1fr 1fr 1fr;
+                    
+                    text-align: center;
+                   
+                }
+               
+                
+               footer {
+                   position: relative;
+                   background-color:#e6e6e6;
+                   width: 100%;
+                   padding:30px;
+
+               }
+                
+
+
+                    
+             
